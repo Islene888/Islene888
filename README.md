@@ -2,10 +2,11 @@
   <h1>Hi!  I'm Ella 👋</h1>
 </div>
 
-· Currently pursuing a master’s degree in information systems @ northeastern university 🇺🇸  
+· Currently pursuing a master’s degree in information systems @ northeastern university 
 · Actively looking for new grad roles (2025–2026)  
 · Interested in data engineering, database engineering, and cloud engineering ☁️  
 · Reach out to me: [islenezhao@gmail.com](mailto:islenezhao@gmail.com) / [zhao.mengyu@northeastern.edu](mailto:zhao.mengyu@northeastern.edu)
+
 
 
 
