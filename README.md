@@ -1,4 +1,6 @@
-# Hi! I'm Ella! 👋
+<p align="center">
+  <h1>Hi! I'm Ella! 👋</h1>
+</p>
 
 - Currently pursuing master’s degree in Information Systems @ Northeastern University 🇺🇸  
 - Actively looking for **New Grad** roles in **Data Engineering**, **Cloud Engineering**, **Database Engineering**, or **Backend/SDE (Data-Focused)** for 2025-2026!  
@@ -10,9 +12,11 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/mengyuanzhao6" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Islene888" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mengyuanzhao6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Islene888" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
