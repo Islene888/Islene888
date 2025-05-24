@@ -1,12 +1,13 @@
-<p align="center">
-  <h1>Hi! I'm Ella! 👋</h1>
-</p>
+<div align="center">
+
+<h1>Hi! I'm Ella! 👋</h1>
+
+</div>
 
 - Currently pursuing master’s degree in Information Systems @ Northeastern University 🇺🇸  
 - Actively looking for **New Grad** roles in **Data Engineering**, **Cloud Engineering**, **Database Engineering**, or **Backend/SDE (Data-Focused)** for 2025-2026!  
 - Passionate about **Real-time Data Platforms**, **Distributed Systems**, and **Cloud-Native Infrastructure** ☁️  
-- Skilled in Python, SQL, Kafka, Flink, AWS, StarRocks, Airflow  
-- Reach out to me: [islenezhao@outlook.com](mailto:islenezhao@outlook.com) (primary) / [zhao.mengyu@northeastern.edu](mailto:zhao.mengyu@northeastern.edu) (school)
+- Reach out to me: [islenezhao@gmail.com](mailto:islenezhao@gamil.com) (primary) / [zhao.mengyu@northeastern.edu](mailto:zhao.mengyu@northeastern.edu) (school)
 
 ---
 
