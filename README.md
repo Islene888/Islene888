@@ -5,7 +5,7 @@
 · Currently pursuing a master’s degree in information systems @ northeastern university  
 · Actively looking for new grad roles (2025–2026)  
 · Interested in data engineering, database engineering, and cloud engineering ☁️  
-· Reach out to me: [islenezhao@gmail.com](mailto:islenezhao@gmail.com) / [zhao.mengyu@northeastern.edu](mailto:zhao.mengyu@northeastern.edu)
+· Reach out to me: [ellazhao098@gmail.com](mailto:ellazhao098@gmail.com) / [zhao.mengyu@northeastern.edu](mailto:zhao.mengyu@northeastern.edu)
 
 
 
